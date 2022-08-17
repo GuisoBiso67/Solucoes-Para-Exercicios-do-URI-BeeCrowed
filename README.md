@@ -1,5 +1,5 @@
 # Solucoes-Para-Exercicios-do-URI-BeeCrowed
-Soluções para exercícios do site URI/BeeCrowed
+Soluções para exercicios do site URI/BeeCrowed
 
 Podem não ser as melhores maneiras de resolver, mas eu consegui assim!
 
