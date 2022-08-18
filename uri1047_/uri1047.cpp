@@ -100,7 +100,7 @@ int main(){
 
 #include <stdio.h>
 
-void main() {
+int main() {
     int h1, m1, s1, h2, m2, s2, tempo, hr, min;
 
     scanf("%d %d %d %d", &h1, &m1, &h2, &m2);
